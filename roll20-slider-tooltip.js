@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name Roll20 Multi-Sided Slider Tooltip
-// @namespace http://githup.com/Kujawadl/roll20-slider-tooltip
+// @namespace https://githup.com/Kujawadl/roll20-slider-tooltip
 // @version 0.1
 // @description Displays the selected value of multiside value sliders via tipsy
-// @match http://app.roll20.net/editor
+// @match https://app.roll20.net/editor
 // @copyright 2022+ Dylan Jager-Kujawa
 // ==/UserScript==
 
